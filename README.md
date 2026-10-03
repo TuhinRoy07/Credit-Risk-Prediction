@@ -165,8 +165,7 @@ Open `analysis_model.ipynb` in Jupyter and run all cells. This regenerates the m
 BCA Student, JIS University, Kolkata
 Interested in Data Analytics, SQL, and AI/ML
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [TuhinRoy07](https://github.com/your-username)
 
 ---
 
